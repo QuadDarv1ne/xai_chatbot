@@ -92,6 +92,12 @@ xai_chatbot/
 
 ---
 
+## Лицензия
+
+[Проект распространяется под лицензией MIT](https://github.com/QuadDarv1ne/xai_chatbot/blob/master/LICENCE)
+
+---
+
 **Автор:** Дуплей Максим Игоревич
 
 **Дата:** 10.12.2024
